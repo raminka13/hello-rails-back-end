@@ -9,19 +9,16 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bashlogoColor=white)
 
 # Hello Rails Back-end
-A mobile web application where you can manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what.
+An API endpoint to provide random quotes.
 
 ## Getting Started
 - Check the Ruby version or if you have at all by running `ruby -v` if you get something like this `ruby 2.6.8p205 (2021-07-07 revision 67951)` you have Ruby installed.
-- Clone the repository by runiing `git clone https://github.com/raminka13/budgety.git` in your CLI.
+- Clone the repository by runiing `git clone https://github.com/raminka13/hello-rails-back-end.git` in your CLI.
 - `cd recipe-app`
 - Run `bundle install`
 - Run `rails db:create db:migrate`
 - Run `rails server`
 - Open Browser `http://localhost:3000/`
-
-## Testing
-- Run `rspec spec/`
 
 ## Author
 👤 **Raul A Ospina** 🧑🏻‍💻
@@ -33,7 +30,7 @@ A mobile web application where you can manage your budget: you have a list of tr
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/raminka13/budgety/issues).
+Feel free to check the [issues page](https://github.com/raminka13/hello-rails-back-end/issues).
 
 ## Show your support
 
@@ -42,5 +39,3 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
-
-## Original design idea by [Gregoire Vella on Behance](https://www.behance.net/gregoirevella).
